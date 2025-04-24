@@ -5,5 +5,8 @@ colors{
 }
 
 body {
-  @apply bg-bgDark text-white font-sans;
+  background-color: var(--bg-bgDark);
+  color: white;
+  font-family: sans-serif;
 }
+
